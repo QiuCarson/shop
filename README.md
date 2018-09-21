@@ -3,7 +3,9 @@
 
 使用到的技术
 1. 服务注册、发现: eureka
-2. lombok 插件 （IDEA要安装这个插件）
+2. lombok 插件 (IDEA要安装这个插件)
+3. 配置中心 (阿波罗)
+4. mybatis+druid 连接mysql 分页使用 pagehelper
 
 ## 模块规划
 
