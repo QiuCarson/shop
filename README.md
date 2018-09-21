@@ -13,8 +13,8 @@
 |:----    |:--- |-----   |
 | front-app        |    8088    |  外部调用接口服务|
 | base-service       |     无   |  基础服务|
-| eureka-service       |     无   |  注册中心|
-| zuul-service       |     无   |  网关服务|
+| --eureka-service       |     无   |  注册中心|
+| --zuul-service       |     无   |  网关服务|
 | common-module       |     无   |  公共模块|
 | order-service       |     无   |  订单服务|
 | sql       |     无   |  数据库sql|
